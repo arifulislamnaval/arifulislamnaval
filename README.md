@@ -1,4 +1,4 @@
-# MD ARIFUL ISLAM — CV
+# MD ARIFUL ISLAM
 
 **Naval Architect & Marine Engineer**
 
