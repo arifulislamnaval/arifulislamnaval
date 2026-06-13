@@ -2,7 +2,7 @@
 
 **Naval Architect & Marine Engineer**
 
-📧 ariful.buet1985@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/islam-mdariful) | 💻 [GitHub](https://github.com/arifulislamnaval) | 📞 +8801624-797833
+📧 ariful.buet1985@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/islam-mdariful) | 💻 [GitHub](https://github.com/arifulislamnaval) | 📞 +8801624-797833 (Cell phone and WhatsAPP)
 
 ---
 
