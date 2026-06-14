@@ -59,8 +59,14 @@ Naval Architect and Marine Engineer with 17 years of progressive experience in s
 
 ## Key Completed Projects
 
-1. 03 × Landing Craft Tanks, 05 × Patrol Crafts, 03 × Diving Boats, 02 × 60 Ton Bollard Pull ASD Tugs — **Bangladesh Navy**
-2. 03 × Inshore Patrol Vessels (IPV), 01 × 70 Ton Self-Propelled Floating Crane, 02 × 60 Ton Bollard Pull ASD Tug Boats — **Bangladesh Coast Guard**
+1. 03 × Landing Craft Tanks for Bangladesh Navy
+2. 05 × Patrol Crafts for Bangladesh Navy
+3. 03 × Diving Boats for Bangladesh Navy
+4. 02 × 60 Ton Bollard Pull ASD Tugs for Bangladesh Navy
+5. 03 × Inshore Patrol Vessels (IPV) for Bangladesh Coast Guard
+6. 01 × 70 Ton Self-Propelled Floating Crane for Bangladesh Coast Guard
+7. 02 × 60 Ton Bollard Pull ASD Tug Boats for Bangladesh Coast Guard
+8. 01 x Fisheries Research Vessel for Bangladesh Fisheries Research Institute
 
 ---
 
