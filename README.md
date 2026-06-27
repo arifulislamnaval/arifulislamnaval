@@ -94,7 +94,7 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 ### **Executive Engineer (Naval Architect)** | Khulna Shipyard Ltd., Bangladesh  
 **Apr 2016 – Present**
 
-- Lead the design and delivery of **40+ naval, government, and commercial vessels** from concept design through construction, sea trials, and commissioning.
+- Lead the design and delivery of **naval, government, and commercial vessels** from concept design through construction, sea trials, and commissioning.
 - Perform ship design, hydrostatics, stability analysis, FEA, production engineering, and coordinate with classification societies, clients, and multidisciplinary teams to deliver class-compliant projects.
 
 ---
