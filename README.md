@@ -64,7 +64,7 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 
 ✔ Design Lead for Bangladesh Navy, Coast Guard and Government Projects
 
-✔ Project Coordinator for Navy, Coast gurad, government projects
+✔ Project Coordinator for Navy, Coast guard, government projects
 
 ✔ Chief Naval Architect, Design Department
 
