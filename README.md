@@ -6,7 +6,7 @@
 
 ---
 
-## Summary
+## 👋 About Me
 
 I am a Senior Naval Architect and Marine Engineer with 17 years of experience in ship design, structural engineering, and shipbuilding project management. Throughout my career, I have led the design and delivery of more than 40 naval, government, and commercial vessels, taking projects from concept development through construction, sea trials, and commissioning.
 
@@ -34,7 +34,7 @@ I am open to international opportunities with shipyards, ship design consultanci
 
 ---
 
-## Work Experience
+##  💼 Work Experience
 
 ### Naval Architect — Khulna Shipyard Ltd, Khulna, Bangladesh
 **Apr 2016 – Present**
@@ -109,23 +109,12 @@ I am open to international opportunities with shipyards, ship design consultanci
 ## 📂 Featured GitHub Projects
 
 * 🚢 70 Ton Bollard Pull ASD Tug Boat
-* 🚢 Self-Propelled Floating Crane
+* 🚢 [Self-Propelled Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG)
 * 🚢 Fisheries Research Vessel
 * 🚢 Landing Craft Tank (LCT)
 * 🚢 Patrol Craft
 * 🚢 Hydrographic Survey Vessel
-
-## Key Completed Projects
-
-1. 03 × Landing Craft Tanks for Bangladesh Navy
-2. 05 × Patrol Crafts for Bangladesh Navy
-3. 03 × Diving Boats for Bangladesh Navy
-4. 02 × 60 Ton Bollard Pull ASD Tugs for Bangladesh Navy
-5. 03 × Inshore Patrol Vessels (IPV) for Bangladesh Coast Guard
-6. [01 × 70 Ton Self-Propelled Floating Crane for Bangladesh Coast Guard](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG)
-7. 02 × 60 Ton Bollard Pull ASD Tug Boats for Bangladesh Coast Guard
-8. [01 x Fisheries Research Vessel for Bangladesh Fisheries Research Institute](https://github.com/arifulislamnaval/mdarifulislam)
-
+* 🚢 [Fisheries Research Vessel](https://github.com/arifulislamnaval/mdarifulislam)
 
 ---
 
@@ -137,29 +126,9 @@ March 2004 – March 2009 | Faculty of Mechanical Engineering | CGPA: 2.85 / 4.0
 
 ---
 
-## Technical Skills
-
-| Category | Skills |
-|---|---|
-| Naval Design Software | Maxsurf, AVEVA Marine, Rhinoceros 3D, AutoCAD 2D/3D, ANSYS |
-| Analysis & Calculations | Hydrostatics, intact/damage stability, GZ curves, longitudinal strength, FEA/FEM, hull form optimization, propulsion performance, tonnage calculation |
-| Regulations & Standards | IMO SOLAS, MARPOL, ISM Code, COLREGS, Class Rules, Bangladesh Dept. of Shipping requirements |
-| Programming & Office | Python, LaTeX, Microsoft Office Suite |
-
----
-
 ## Languages
 
 Bengali (Native) — English (Professional) — Arabic (Conversational) — Hindi (Conversational)
 
 ---
 
-## Referees
-
-**Professor Dr. Mir Tareque Ali**
-Bangladesh University of Engineering and Technology (BUET), Dhaka
-mtarequeali@name.buet.ac.bd
-
-**Professor Dr. N.M. Golam Zakaria**
-Bangladesh University of Engineering and Technology (BUET), Dhaka
-gzakaria@name.buet.ac.bd
