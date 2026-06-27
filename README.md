@@ -128,7 +128,7 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 
 - Prepared basic and production design drawings for local vessel approval and construction.
 - Produced structural drawings, material take-offs, and technical documentation using **AutoCAD**.
-
+---
 ## Education
 
 **BSc in Naval Architecture and Marine Engineering**
