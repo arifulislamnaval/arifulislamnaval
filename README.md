@@ -17,6 +17,23 @@ I am open to international opportunities with shipyards, ship design consultanci
 
 ---
 
+## 🚢 Core Expertise
+
+* Ship Design & Naval Architecture
+* Shipbuilding Project Management
+* Hydrostatics & Stability Analysis
+* Hull Form Optimization
+* Structural Analysis (FEA/FEM)
+* Basic & Production Design
+* Construction Supervision
+* Sea Trials & Commissioning
+* Classification Society Liaison
+* Quality Assurance & Inspection
+* Technical Documentation
+* Procurement & Vendor Management
+
+---
+
 ## Work Experience
 
 ### Naval Architect — Khulna Shipyard Ltd, Khulna, Bangladesh
