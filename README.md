@@ -1,13 +1,49 @@
-# MD ARIFUL ISLAM
-## Senior Naval Architect | Ship Design | Structural Engineering | Shipbuilding Project Management
-![Experience](https://img.shields.io/badge/Experience-17%2B%20Years-blue)
-![Projects](https://img.shields.io/badge/Vessels-40%2B-success)
-![Industry](https://img.shields.io/badge/Industry-Shipbuilding-important)
-![Software](https://img.shields.io/badge/Maxsurf-Expert-blueviolet)
-![Software](https://img.shields.io/badge/AVEVA-Marine-blue)
-![Software](https://img.shields.io/badge/ANSYS-Structural%20Analysis-orange)
+<h1 align="center">MD ARIFUL ISLAM</h1>
 
-📧 ariful.buet1985@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/islam-mdariful) | <a href="https://wa.me/8801624797833"><img src="https://img.shields.io/badge/WhatsApp-+8801624--797833-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+<h3 align="center">
+Senior Naval Architect | Ship Design | Structural Engineering | Shipbuilding Project Management
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-17%2B%20Years-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vessels-40%2B%20Delivered-28A745?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-International%20Opportunities-success?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maxsurf-Expert-7B1FA2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AVEVA%20Marine-Expert-1976D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ANSYS-FEA-F57C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rhino3D-Expert-616161?style=for-the-badge" />
+</p>
+
+<p align="center">
+📧 <strong><a href="mailto:ariful.buet1985@gmail.com">ariful.buet1985@gmail.com</a></strong>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+📱 <strong><a href="tel:+8801624797833">+880 1624-797833</a></strong>
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/islam-mdariful">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/arifulislamnaval">
+<img src="https://img.shields.io/badge/GitHub-Engineering%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/8801624797833">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<strong>Delivering Innovative, Safe, Efficient, and Class-Compliant Marine Engineering Solutions Worldwide.</strong>
+</p>
 
 ---
 
