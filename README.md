@@ -12,14 +12,28 @@
 
 ## 👋 About Me
 
-I am a Senior Naval Architect and Marine Engineer with 17 years of experience in ship design, structural engineering, and shipbuilding project management. Throughout my career, I have led the design and delivery of more than 40 naval, government, and commercial vessels, taking projects from concept development through construction, sea trials, and commissioning.
+## 👋 About Me
 
-My expertise includes ship design, hydrostatics, stability analysis, structural analysis (FEA), production engineering, construction support, and regulatory compliance. I am proficient in Maxsurf, AVEVA Marine, Rhino3D, ANSYS, and AutoCAD, with extensive experience working to IMO regulations and classification society requirements.
-I enjoy leading multidisciplinary teams, solving complex engineering challenges, and delivering safe, efficient, and high-quality vessels that meet technical, operational, and commercial objectives.
+Senior Naval Architect and Marine Engineer with **17 years of experience** delivering **40+ naval, government, and commercial vessels** from concept design to commissioning.
 
-I am open to international opportunities with shipyards, ship design consultancies, classification societies, and marine engineering organizations where I can contribute my technical expertise, leadership, and project management experience.
+Specialized in **ship design, hydrostatics, stability, FEA, production engineering, and construction support** using **Maxsurf, AVEVA Marine, Rhino3D, ANSYS, and AutoCAD**.
+
+I am passionate about developing safe, efficient, and class-compliant vessels and am open to international opportunities with shipyards, ship design consultancies, classification societies, and marine engineering companies.
 
 ---
+## ⭐ Key Highlights
+
+✔ 17 Years in Ship Design & Shipbuilding
+
+✔ 40+ Naval, Government & Commercial Vessels Delivered
+
+✔ Design Lead for Bangladesh Navy Projects
+
+✔ Project Coordinator – 70T ASD Tug Boat
+
+✔ Executive Engineer & Chief, Design Department
+
+✔ Expertise in Maxsurf, AVEVA Marine, Rhino3D & ANSYS
 
 ## 🚢 Core Expertise
 
