@@ -95,17 +95,6 @@ I am open to international opportunities with shipyards, ship design consultanci
 | 4 × 12m Crane Boats                | Bangladesh Water Transport Authority | Lead Design         |
 
 ---
-## 🛠 Technical Skills
-
-| Category            | Skills                                                                                                     |
-| ------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Design Software** | Maxsurf, AVEVA Marine, Rhino3D, AutoCAD, ANSYS                                                             |
-| **Engineering**     | Ship Design, Hydrostatics, Stability, Longitudinal Strength, FEA/FEM, Hull Optimization, Production Design |
-| **Regulations**     | IMO (SOLAS, MARPOL, Load Line, COLREG), Classification Society Rules (BV, LR, CCS)                         |
-| **Programming**     | Python, LaTeX, Microsoft Office                                                                            |
-
----
-
 ## 📂 Featured GitHub Projects
 
 * 🚢 70 Ton Bollard Pull ASD Tug Boat
@@ -117,6 +106,17 @@ I am open to international opportunities with shipyards, ship design consultanci
 * 🚢 [Fisheries Research Vessel](https://github.com/arifulislamnaval/mdarifulislam)
 
 ---
+## 🛠 Technical Skills
+
+| Category            | Skills                                                                                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Design Software** | Maxsurf, AVEVA Marine, Rhino3D, AutoCAD, ANSYS                                                             |
+| **Engineering**     | Ship Design, Hydrostatics, Stability, Longitudinal Strength, FEA/FEM, Hull Optimization, Production Design |
+| **Regulations**     | IMO (SOLAS, MARPOL, Load Line, COLREG), Classification Society Rules (BV, LR, CCS)                         |
+| **Programming**     | Python, LaTeX, Microsoft Office                                                                            |
+
+---
+
 
 ## Education
 
