@@ -5,6 +5,7 @@
 ![Industry](https://img.shields.io/badge/Industry-Shipbuilding-important)
 ![Software](https://img.shields.io/badge/Maxsurf-Expert-blueviolet)
 ![Software](https://img.shields.io/badge/AVEVA-Marine-blue)
+![Software](https://img.shields.io/badge/ANSYS-Structural%20Analysis-orange)
 
 📧 ariful.buet1985@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/islam-mdariful) | <a href="https://wa.me/8801624797833"><img src="https://img.shields.io/badge/WhatsApp-+8801624--797833-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 
