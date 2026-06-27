@@ -1,4 +1,11 @@
 # MD ARIFUL ISLAM
+## Senior Naval Architect | Ship Design Engineer | Shipbuilding Project Manager
+
+![Experience](https://img.shields.io/badge/Experience-17%2B%20Years-blue)
+![Projects](https://img.shields.io/badge/Vessels-40%2B-success)
+![Industry](https://img.shields.io/badge/Industry-Shipbuilding-important)
+![Software](https://img.shields.io/badge/Maxsurf-Expert-blueviolet)
+![Software](https://img.shields.io/badge/AVEVA-Marine-blue)
 
 **Naval Architect & Marine Engineer**
 
