@@ -8,7 +8,12 @@
 
 ## Summary
 
-Naval Architect and Marine Engineer with 17 years of progressive experience in ship design, structural engineering, and project delivery for defense and government clients. Expert in Maxsurf, AVEVA Marine, Rhinoceros, and ANSYS, with deep hands-on expertise in hydrostatics, stability analysis, FEA, Basic and production design. Proven record delivering complex vessel programs — including Patrol Vessels, ASD tugs, Floating Cranes, Landing Craft Tanks and High Speed Boats — for Bangladesh Navy and Bangladesh Coast Guard. Experienced in SOLAS, MARPOL, and ISM Code compliance, classification society liaison, sea trials, and full vessel commissioning.
+I am a Senior Naval Architect and Marine Engineer with 17 years of experience in ship design, structural engineering, and shipbuilding project management. Throughout my career, I have led the design and delivery of more than 40 naval, government, and commercial vessels, taking projects from concept development through construction, sea trials, and commissioning.
+
+My expertise includes ship design, hydrostatics, stability analysis, structural analysis (FEA), production engineering, construction support, and regulatory compliance. I am proficient in Maxsurf, AVEVA Marine, Rhino3D, ANSYS, and AutoCAD, with extensive experience working to IMO regulations and classification society requirements.
+I enjoy leading multidisciplinary teams, solving complex engineering challenges, and delivering safe, efficient, and high-quality vessels that meet technical, operational, and commercial objectives.
+
+I am open to international opportunities with shipyards, ship design consultancies, classification societies, and marine engineering organizations where I can contribute my technical expertise, leadership, and project management experience.
 
 ---
 
