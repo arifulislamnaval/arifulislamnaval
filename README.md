@@ -12,8 +12,6 @@
 
 ## 👋 About Me
 
-## 👋 About Me
-
 Senior Naval Architect and Marine Engineer with **17 years of experience** delivering **40+ naval, government, and commercial vessels** from concept design to commissioning.
 
 Specialized in **ship design, hydrostatics, stability, FEA, production engineering, and construction support** using **Maxsurf, AVEVA Marine, Rhino3D, ANSYS, and AutoCAD**.
@@ -27,11 +25,11 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 
 ✔ 40+ Naval, Government & Commercial Vessels Delivered
 
-✔ Design Lead for Bangladesh Navy Projects
+✔ Design Lead for Bangladesh Navy, Coast Guard and Government Projects
 
-✔ Project Coordinator – 70T ASD Tug Boat
+✔ Project Coordinator for Navy, Coast gurad, government projects
 
-✔ Executive Engineer & Chief, Design Department
+✔ Chief Naval Architect, Design Department
 
 ✔ Expertise in Maxsurf, AVEVA Marine, Rhino3D & ANSYS
 
