@@ -50,50 +50,7 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 
 ---
 
-##  💼 Work Experience
 
-### Naval Architect — Khulna Shipyard Ltd, Khulna, Bangladesh
-**Apr 2016 – Present**
-
-- Led end-to-end design and delivery of naval vessels (Patrol Vessels, high-speed boats, ASD tugs, LCTs, diving boats, ferry boats, and a floating crane) for Bangladesh Navy and Bangladesh Coast Guard, from concept through sea trials — all delivered in compliance with classification society rules.
-- Conducted stability analysis, hydrostatic calculations, GZ curve assessments, and longitudinal strength evaluations using Maxsurf and ANSYS, ensuring full compliance with IMO SOLAS, MARPOL, and class rules.
-- Produced and reviewed complete structural drawing packages including linesplans, general arrangements, midship sections, and production drawings — managing design documentation from basic design through fabrication stage.
-- Liaised directly with classification society surveyors and client representatives (Bangladesh Coast Guard, Bangladesh Navy) throughout plan approval, construction, and commissioning phases.
-- Managed simultaneous construction of multiple defense vessels, coordinating cross-functional teams across engineering, production, procurement, and planning departments while maintaining schedule adherence.
-- Supervised fabrication quality including welding procedure compliance, NDT inspection records, steel take-off verification, and outfitting — ensuring zero Class deficiencies at delivery.
-- Led inclining experiments, sea trials, and vessel commissioning activities; prepared technical reports, stability booklets, and project completion documentation for client and regulatory acceptance.
-- Optimized hull form design and structural scantlings using Rhinoceros and Maxsurf, improving vessel performance and reducing material wastage across multiple projects.
-- Conducted technical evaluation of procurement submissions and supported vendor selection for hull materials, equipment, and outfitting items.
-
-### Deputy Manager — Western Marine Shipyard Ltd, Bangladesh
-**Jan 2014 – Jan 2015**
-
-- Performed hydrostatic, stability, structural strength, and propulsion performance calculations for commercial vessel projects using Maxsurf and AutoCAD.
-- Prepared and reviewed basic design and production drawings; led design review sessions and provided technical guidance to shipyard engineering teams.
-- Coordinated hull form optimization activities and contributed to design improvements for safety, efficiency, and cost-effectiveness.
-
-### Assistant Manager — FMC Dockyard Ltd, Bangladesh
-**Apr 2012 – May 2013**
-
-- Reviewed basic design packages against owner requirements and coordinated modifications with the designer and classification society surveyors.
-- Prepared detailed production design drawings based on approved basic design; produced steel take-off estimates and material specifications for procurement planning.
-- Tracked construction materials, equipment, and labor productivity; resolved technical and mechanical issues during fabrication to maintain schedule.
-
-### Assistant Engineer — Ananda Shipyard Ltd, Bangladesh
-**Jul 2010 – Mar 2012**
-
-- Reviewed basic design packages per owner requirements and coordinated design modifications with the designer and production department.
-- Prepared detailed hull production design drawings using TRIBON/AVEVA Marine; produced compartmentation layouts and structural production packages.
-- Generated steel take-off estimates and material specifications to support accurate procurement and uninterrupted construction progress.
-
-### Naval Architect — Marine House Ltd, Bangladesh
-**Jun 2009 – Jun 2010**
-
-- Reviewed basic and production design packages prior to construction commencement; ensured design compliance with Department of Shipping approval requirements.
-- Prepared complete drawing packages for local vessel approvals — including general arrangements, linesplans, and structural drawings.
-- Produced hull plate and profile take-off estimates for accurate material requisition; generated basic and production design packages using AutoCAD.
-
----
 ## 🚢 Selected Projects
 
 | Project                            | Client                               | Role                |
@@ -132,7 +89,45 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 | **Programming**     | Python, LaTeX, Microsoft Office                                                                            |
 
 ---
+## 💼 Professional Experience
 
+### **Executive Engineer (Naval Architect)** | Khulna Shipyard Ltd., Bangladesh  
+**Apr 2016 – Present**
+
+- Lead the design and delivery of **40+ naval, government, and commercial vessels** from concept design through construction, sea trials, and commissioning.
+- Perform ship design, hydrostatics, stability analysis, FEA, production engineering, and coordinate with classification societies, clients, and multidisciplinary teams to deliver class-compliant projects.
+
+---
+
+### **Deputy Manager** | Western Marine Shipyard Ltd., Bangladesh  
+**Jan 2014 – Jan 2015**
+
+- Designed commercial vessels and performed hydrostatics, stability, structural, and propulsion analyses.
+- Prepared and reviewed basic and production design packages using **Maxsurf** and **AutoCAD**.
+
+---
+
+### **Assistant Manager** | FMC Dockyard Ltd., Bangladesh  
+**Apr 2012 – May 2013**
+
+- Developed production design drawings, steel take-offs, and material specifications for newbuilding projects.
+- Coordinated design modifications with owners, designers, and classification societies during construction.
+
+---
+
+### **Assistant Engineer** | Ananda Shipyard Ltd., Bangladesh  
+**Jul 2010 – Mar 2012**
+
+- Prepared hull production design packages using **TRIBON/AVEVA Marine**.
+- Produced structural drawings, compartmentation layouts, and steel take-offs for ship construction.
+
+---
+
+### **Naval Architect** | Marine House Ltd., Bangladesh  
+**Jun 2009 – Jun 2010**
+
+- Prepared basic and production design drawings for local vessel approval and construction.
+- Produced structural drawings, material take-offs, and technical documentation using **AutoCAD**.
 
 ## Education
 
