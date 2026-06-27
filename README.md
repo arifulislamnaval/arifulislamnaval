@@ -1,13 +1,10 @@
 # MD ARIFUL ISLAM
-## Senior Naval Architect | Ship Design Engineer | Shipbuilding Project Manager
-
+## Senior Naval Architect | Ship Design | Structural Engineering | Shipbuilding Project Management
 ![Experience](https://img.shields.io/badge/Experience-17%2B%20Years-blue)
 ![Projects](https://img.shields.io/badge/Vessels-40%2B-success)
 ![Industry](https://img.shields.io/badge/Industry-Shipbuilding-important)
 ![Software](https://img.shields.io/badge/Maxsurf-Expert-blueviolet)
 ![Software](https://img.shields.io/badge/AVEVA-Marine-blue)
-
-**Naval Architect & Marine Engineer**
 
 📧 ariful.buet1985@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/islam-mdariful) | <a href="https://wa.me/8801624797833"><img src="https://img.shields.io/badge/WhatsApp-+8801624--797833-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 
