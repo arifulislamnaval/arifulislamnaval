@@ -78,6 +78,42 @@ I am open to international opportunities with shipyards, ship design consultanci
 - Produced hull plate and profile take-off estimates for accurate material requisition; generated basic and production design packages using AutoCAD.
 
 ---
+## 🚢 Selected Projects
+
+| Project                            | Client                               | Role                |
+| ---------------------------------- | ------------------------------------ | ------------------- |
+| 3 × Landing Craft Tanks (LCTs)     | Bangladesh Navy                      | Design Lead         |
+| 10 × Patrol Craft                  | Bangladesh Navy                      | Design Engineer     |
+| 2 × Hydrographic Survey Vessels    | Bangladesh Navy                      | Design Engineer     |
+| 6 × High-Speed Boats               | Bangladesh Coast Guard               | Design Lead         |
+| 1 × Self-Propelled Floating Crane  | Bangladesh Coast Guard               | Project Coordinator |
+| 2 × 60T ASD Tug Boats              | Bangladesh Coast Guard               | Design Engineer     |
+| 2 × Diving Boats & 2 × Ferry Boats | Bangladesh Coast Guard               | Lead Design         |
+| 2 × 70T ASD Tug Boats              | Payra Port Authority                 | Project Coordinator |
+| 1 × Survey Boat & 1 × Pilot Boat   | Payra Port Authority                 | Lead Design         |
+| 4 × 24" Cutter Suction Dredgers    | Bangladesh Water Transport Authority | Lead Design         |
+| 4 × 12m Crane Boats                | Bangladesh Water Transport Authority | Lead Design         |
+
+---
+## 🛠 Technical Skills
+
+| Category            | Skills                                                                                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Design Software** | Maxsurf, AVEVA Marine, Rhino3D, AutoCAD, ANSYS                                                             |
+| **Engineering**     | Ship Design, Hydrostatics, Stability, Longitudinal Strength, FEA/FEM, Hull Optimization, Production Design |
+| **Regulations**     | IMO (SOLAS, MARPOL, Load Line, COLREG), Classification Society Rules (BV, LR, CCS)                         |
+| **Programming**     | Python, LaTeX, Microsoft Office                                                                            |
+
+---
+
+## 📂 Featured GitHub Projects
+
+* 🚢 70 Ton Bollard Pull ASD Tug Boat
+* 🚢 Self-Propelled Floating Crane
+* 🚢 Fisheries Research Vessel
+* 🚢 Landing Craft Tank (LCT)
+* 🚢 Patrol Craft
+* 🚢 Hydrographic Survey Vessel
 
 ## Key Completed Projects
 
