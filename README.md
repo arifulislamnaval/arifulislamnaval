@@ -120,7 +120,7 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 * 🚢 1 × Survey Boat & 1 × Pilot Boat
 * 🚢 4 × 24" Cutter Suction Dredgers
 * 🚢 4 × 12m Crane Boats   
-* 🚢 [Fisheries Research Vessel](https://github.com/arifulislamnaval/mdarifulislam)
+* 🚢 [1 x Fisheries Research Vessel](https://github.com/arifulislamnaval/mdarifulislam)
 
 ---
 ## 🛠 Technical Skills
