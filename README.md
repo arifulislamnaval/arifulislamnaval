@@ -88,31 +88,38 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 ---
 
 
-## 🚢 Selected Projects
+## 🚢 Selected Completed Projects
 
 | Project                            | Client                               | Role                |
 | ---------------------------------- | ------------------------------------ | ------------------- |
+| 1 × Self-Propelled Floating Crane  | Bangladesh Coast Guard               | Project Coordinator |
+| 2 × 70T ASD Tug Boats              | Payra Port Authority                 | Project Coordinator |
 | 3 × Landing Craft Tanks (LCTs)     | Bangladesh Navy                      | Design Lead         |
 | 10 × Patrol Craft                  | Bangladesh Navy                      | Design Engineer     |
 | 2 × Hydrographic Survey Vessels    | Bangladesh Navy                      | Design Engineer     |
 | 6 × High-Speed Boats               | Bangladesh Coast Guard               | Design Lead         |
-| 1 × Self-Propelled Floating Crane  | Bangladesh Coast Guard               | Project Coordinator |
 | 2 × 60T ASD Tug Boats              | Bangladesh Coast Guard               | Design Engineer     |
 | 2 × Diving Boats & 2 × Ferry Boats | Bangladesh Coast Guard               | Lead Design         |
-| 2 × 70T ASD Tug Boats              | Payra Port Authority                 | Project Coordinator |
 | 1 × Survey Boat & 1 × Pilot Boat   | Payra Port Authority                 | Lead Design         |
 | 4 × 24" Cutter Suction Dredgers    | Bangladesh Water Transport Authority | Lead Design         |
 | 4 × 12m Crane Boats                | Bangladesh Water Transport Authority | Lead Design         |
+| 1 x Fisheries Research Vessel      | Bangladesh Fisheries Research Institute | Lead Design         |
+
 
 ---
-## 📂 Featured GitHub Projects
+## 📂 Over View of completed Projects
 
-* 🚢 70 Ton Bollard Pull ASD Tug Boat
-* 🚢 [Self-Propelled Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG)
-* 🚢 Fisheries Research Vessel
-* 🚢 Landing Craft Tank (LCT)
-* 🚢 Patrol Craft
-* 🚢 Hydrographic Survey Vessel
+* 🚢 [1 x Self-Propelled Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG)
+* 🚢 2 x 70 Ton Bollard Pull ASD Tug Boat
+* 🚢 3 x Landing Craft Tanks (LCTs) 
+* 🚢 10 x Patrol Craft
+* 🚢 2 × Hydrographic Survey Vessels
+* 🚢 6 × High-Speed Boats
+* 🚢 2 × 60T ASD Tug Boats
+* 🚢 2 × Diving Boats & 2 × Ferry Boats
+* 🚢 1 × Survey Boat & 1 × Pilot Boat
+* 🚢 4 × 24" Cutter Suction Dredgers
+* 🚢 4 × 12m Crane Boats   
 * 🚢 [Fisheries Research Vessel](https://github.com/arifulislamnaval/mdarifulislam)
 
 ---
