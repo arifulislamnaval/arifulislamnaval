@@ -88,7 +88,7 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 ---
 
 
-## 🚢 Selected Completed Projects
+## 🚢 Selected Projects
 
 | Project                            | Client                               | Role                |
 | ---------------------------------- | ------------------------------------ | ------------------- |
@@ -107,7 +107,7 @@ I am passionate about developing safe, efficient, and class-compliant vessels an
 
 
 ---
-## 📂 Over View of completed Projects
+## 📂 Over View of Projects
 
 * 🚢 [1 x Self-Propelled Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG)
 * 🚢 2 x 70 Ton Bollard Pull ASD Tug Boat
