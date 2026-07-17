@@ -34,6 +34,24 @@ Experienced in **ship design, structural analysis, hydrostatics, stability, prod
 
 **Seeking international opportunities in ship design, shipbuilding, offshore structures, classification, and marine engineering.**
 
+## Selected Projects
+
+| Project | Client | Status | Primary Responsibility |
+|---------|--------|:------:|------------------------|
+| [5 × Patrol Craft](https://github.com/arifulislamnaval/patrolcraft) & [2 × Large Patrol Craft](https://github.com/arifulislamnaval/largepc) | Bangladesh Navy | ✅ Delivered | Design Review & Rule Compliance |
+| [2 × 60T BP ASD Tug Boats](https://github.com/arifulislamnaval/submarinetug) | Bangladesh Navy | ✅ Delivered | Design Review & Rule Compliance |
+| [2 × Hydrographic](https://github.com/arifulislamnaval/hydrosurvey) & [3 × Diving Vessels](https://github.com/arifulislamnaval/divingboatbn) | Bangladesh Navy | ✅ Delivered | Structural Detailed Design |
+| [3 × Landing Craft Tanks (LCTs)](https://github.com/arifulislamnaval/lctbn) | Bangladesh Navy | 🚧 Ongoing | Structural Detailed Design |
+| [6 × High-Speed Boats](https://github.com/arifulislamnaval/hsbbcg) | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis |
+| [1 × Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG) & [3 × Patrol Vessels](https://github.com/arifulislamnaval/ipvbcg) | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis & Structural Detailed Design |
+| [2 × 60T BP ASD Tug Boats](https://github.com/arifulislamnaval/bcgtug) | Bangladesh Coast Guard | ✅ Delivered | Structural Detailed Design |
+| [2 × Diving Boats](https://github.com/arifulislamnaval/bcgdivingboat) & 2 × [Ferry Boats](https://github.com/arifulislamnaval/ferrybcg) | Bangladesh Coast Guard | ✅ Delivered | Structural Review & Class Compliance |
+| 2 × 70T BP ASD Tug Boats | Payra Port Authority | 🚧 Ongoing | Structural Detailed Design |
+| [2 × Heavy Duty Boats](https://github.com/arifulislamnaval/ppahdsb) & [2 × Pilot Boats](https://github.com/arifulislamnaval/ppapilot) | Payra Port Authority | ✅ Delivered | Structural Review & Class Compliance |
+| [1 × Fisheries Research Vessel](https://github.com/arifulislamnaval/fishresearchproj) | Bangladesh Fisheries Research Institute | ✅ Delivered | Design Review & Rule Compliance |
+| 2 × Fire Floats | Fire Service & Civil Defence | ✅ Delivered | Design Review & Rule Compliance |
+
+---
 ## Key Highlights
 
 - Progressed from Assistant Engineer to Chief of Design Section through consistent engineering leadership
@@ -57,24 +75,7 @@ Experienced in **ship design, structural analysis, hydrostatics, stability, prod
 ---
 
 
-## Selected Projects
 
-| Project | Client | Status | Primary Responsibility |
-|---------|--------|:------:|------------------------|
-| [5 × Patrol Craft](https://github.com/arifulislamnaval/patrolcraft) & [2 × Large Patrol Craft](https://github.com/arifulislamnaval/largepc) | Bangladesh Navy | ✅ Delivered | Design Review & Rule Compliance |
-| [2 × 60T BP ASD Tug Boats](https://github.com/arifulislamnaval/submarinetug) | Bangladesh Navy | ✅ Delivered | Design Review & Rule Compliance |
-| [2 × Hydrographic](https://github.com/arifulislamnaval/hydrosurvey) & [3 × Diving Vessels](https://github.com/arifulislamnaval/divingboatbn) | Bangladesh Navy | ✅ Delivered | Structural Detailed Design |
-| [3 × Landing Craft Tanks (LCTs)](https://github.com/arifulislamnaval/lctbn) | Bangladesh Navy | 🚧 Ongoing | Structural Detailed Design |
-| [6 × High-Speed Boats](https://github.com/arifulislamnaval/hsbbcg) | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis |
-| [1 × Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG) & [3 × Patrol Vessels](https://github.com/arifulislamnaval/ipvbcg) | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis & Structural Detailed Design |
-| [2 × 60T BP ASD Tug Boats](https://github.com/arifulislamnaval/bcgtug) | Bangladesh Coast Guard | ✅ Delivered | Structural Detailed Design |
-| [2 × Diving Boats](https://github.com/arifulislamnaval/bcgdivingboat) & 2 × [Ferry Boats](https://github.com/arifulislamnaval/ferrybcg) | Bangladesh Coast Guard | ✅ Delivered | Structural Review & Class Compliance |
-| 2 × 70T BP ASD Tug Boats | Payra Port Authority | 🚧 Ongoing | Structural Detailed Design |
-| [2 × Heavy Duty Boats](https://github.com/arifulislamnaval/ppahdsb) & [2 × Pilot Boats](https://github.com/arifulislamnaval/ppapilot) | Payra Port Authority | ✅ Delivered | Structural Review & Class Compliance |
-| [1 × Fisheries Research Vessel](https://github.com/arifulislamnaval/fishresearchproj) | Bangladesh Fisheries Research Institute | ✅ Delivered | Design Review & Rule Compliance |
-| 2 × Fire Floats | Fire Service & Civil Defence | ✅ Delivered | Design Review & Rule Compliance |
-
----
 ## Technical Skills
 
 | Category | Skills |
