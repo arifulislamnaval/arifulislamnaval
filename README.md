@@ -32,7 +32,6 @@ Senior Naval Architect & Marine Engineer specializing in the design and delivery
 
 My expertise covers **ship design, structural engineering, hydrostatics, stability analysis, finite element analysis (FEA), production engineering, design management, construction support, and classification compliance**, working closely with clients, production teams, and classification societies to deliver safe, efficient, and production-ready vessels.
 
-**Engineering Software:** AVEVA Marine • Maxsurf • Rhino3D • ANSYS • AutoCAD
 
 ---
 
