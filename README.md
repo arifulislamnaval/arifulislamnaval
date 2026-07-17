@@ -26,13 +26,12 @@ Ship Design • Structural Engineering • Project Engineering • Class Complia
 
 ## About Me
 
-Senior Naval Architect with **17+ years of experience** delivering innovative ship design and engineering solutions for naval, coast guard, government, and commercial vessels. Proven track record of successfully delivering **40+ newbuilding projects** from concept design through production, construction support, sea trials, and commissioning.
+Senior Naval Architect & Marine Engineer with **17+ years of experience** delivering **40+ naval, government, and commercial newbuilding projects** from concept design to commissioning.
 
-Specialized in **ship design, structural analysis, stability, production engineering, and design management**, with extensive experience ensuring compliance with **IMO regulations** and **classification society requirements**. Proficient in industry-standard engineering software, including **Maxsurf, AVEVA Marine, Rhino3D, AutoCAD, and ANSYS**, to develop safe, efficient, and buildable vessel designs.
+Expertise in **ship design, structural engineering, stability, production engineering, project engineering, and class compliance**, ensuring compliance with **IMO regulations** and **classification society rules**. Proficient in **Maxsurf, AVEVA Marine, Rhino3D, AutoCAD, and ANSYS**, with extensive experience in design review, construction support, engineering coordination, and multidisciplinary project delivery.
 
-Experienced in leading multidisciplinary teams and resolving complex technical challenges across the design-to-construction lifecycle, with a focus on delivering high-quality, cost-effective solutions that enhance vessel performance, safety, and construction efficiency. Currently open to international opportunities in ship design, structural engineering, offshore structures, project engineering, and marine consulting.
+Open to international opportunities in **ship design, shipbuilding, offshore structures, classification, and marine engineering**.
 
----
 ## Key Highlights
 
 - Progressed from Assistant Engineer to Chief of Design Section through consistent engineering leadership
