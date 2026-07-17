@@ -47,10 +47,10 @@ My expertise covers **ship design, structural engineering, hydrostatics, stabili
 | [1 × Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG) & [3 × Patrol Vessels](https://github.com/arifulislamnaval/ipvbcg) | Bangladesh Coast Guard | ✅ | Stability Analysis & Structural Detailed Design |
 | [2 × 60T BP ASD Tug Boats](https://github.com/arifulislamnaval/bcgtug) | Bangladesh Coast Guard | ✅ | Structural Detailed Design |
 | [2 × Diving Boats](https://github.com/arifulislamnaval/bcgdivingboat) & [2 × Ferry Boats](https://github.com/arifulislamnaval/ferrybcg) | Bangladesh Coast Guard | ✅ | Structural Review & Class Compliance |
-| 2 × 70T BP ASD Tug Boats | Payra Port Authority | 🚧 | Structural Detailed Design |
+| [2 × 70T BP ASD Tug Boats](https://github.com/arifulislamnaval/ppatug) | Payra Port Authority | 🚧 | Structural Detailed Design |
 | [2 × Heavy Duty Boats](https://github.com/arifulislamnaval/ppahdsb) & [2 × Pilot Boats](https://github.com/arifulislamnaval/ppapilot) | Payra Port Authority | ✅ | Structural Review & Class Compliance |
 | [1 × Fisheries Research Vessel](https://github.com/arifulislamnaval/fishresearchproj) | Bangladesh Fisheries Research Institute | ✅ | Design Review & Rule Compliance |
-| 2 × Fire Floats | Fire Service & Civil Defence | ✅ | Design Review & Rule Compliance |
+| [2 × Fire Floats](https://github.com/arifulislamnaval/firefloat) | Fire Service & Civil Defence | ✅ | Design Review & Rule Compliance |
 
 ---
 
