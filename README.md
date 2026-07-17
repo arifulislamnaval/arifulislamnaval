@@ -1,12 +1,16 @@
 <h1 align="center">MD ARIFUL ISLAM</h1>
 
 <h3 align="center">
-Senior Naval Architect & Marine Engineer | Ship Design | Structural Engineering | Project Engineering
+Senior Naval Architect & Marine Engineer
 </h3>
 
 <p align="center">
+Ship Design • Structural Engineering • Project Engineering • Class Compliance
+</p>
+
+<p align="center">
 <i>
-17+ years of engineering experience delivering <strong>40+ naval, government, and commercial vessels</strong> across the complete shipbuilding lifecycle—from concept design and structural engineering to production, construction support, sea trials, commissioning, and final delivery.
+17+ years of experience • 40+ naval, government & commercial vessels • From concept design to commissioning • Open to international opportunities
 </i>
 </p>
 
@@ -18,10 +22,6 @@ Senior Naval Architect & Marine Engineer | Ship Design | Structural Engineering 
 📍 Khulna, Bangladesh
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://linkedin.com/in/islam-mdariful"><strong>LinkedIn</strong></a>
-</p>
-
-<p align="center">
-🚢 Ship Design • ⚓ Structural Engineering • 📐 Stability & Hydrostatics • 🏗️ Production Engineering • 📋 Design Management • 🔍 Classification Compliance • ⚙️ Construction Support • 🌊 Offshore Engineering • 🌍 Open to International Opportunities
 </p>
 
 ## About Me
