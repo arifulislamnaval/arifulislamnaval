@@ -5,12 +5,12 @@ Senior Naval Architect & Marine Engineer
 </h3>
 
 <p align="center">
-Ship Design • Structural Engineering • Project Engineering • Class Compliance
+Ship Design • Structural Engineering • Design Management • Classification Compliance
 </p>
 
 <p align="center">
 <i>
-17+ years of experience • 40+ naval, government & commercial vessels • From concept design to commissioning • Open to international opportunities
+17+ years of experience • 40+ naval, government & commercial newbuilding projects • Concept Design to Commissioning
 </i>
 </p>
 
@@ -24,13 +24,15 @@ Ship Design • Structural Engineering • Project Engineering • Class Complia
 <a href="https://linkedin.com/in/islam-mdariful"><strong>LinkedIn</strong></a>
 </p>
 
+---
+
 ## About Me
 
-Senior Naval Architect & Marine Engineer with **17+ years of experience** delivering **40+ naval, government, and commercial newbuilding projects** from concept design to commissioning.
+Senior Naval Architect & Marine Engineer with **17+ years of experience** delivering **40+ naval, government, and commercial newbuilding projects** across the complete shipbuilding lifecycle—from **concept design and structural engineering to production, construction support, sea trials, and commissioning**.
 
-Expertise in **ship design, structural engineering, stability, production engineering, project engineering, and class compliance**, ensuring compliance with **IMO regulations** and **classification society rules**. Proficient in **Maxsurf, AVEVA Marine, Rhino3D, AutoCAD, and ANSYS**, with extensive experience in design review, construction support, engineering coordination, and multidisciplinary project delivery.
+Experienced in **ship design, structural analysis, hydrostatics, stability, production engineering, design management, and classification compliance**, ensuring adherence to **IMO regulations** and **classification society requirements**. Proficient in **Maxsurf, AVEVA Marine, Rhino3D, AutoCAD, and ANSYS**, with a proven ability to coordinate multidisciplinary teams and deliver safe, efficient, and production-ready engineering solutions.
 
-Open to international opportunities in **ship design, shipbuilding, offshore structures, classification, and marine engineering**.
+**Seeking international opportunities in ship design, shipbuilding, offshore structures, classification, and marine engineering.**
 
 ## Key Highlights
 
