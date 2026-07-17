@@ -1,142 +1,89 @@
 <h1 align="center">MD ARIFUL ISLAM</h1>
 
 <h3 align="center">
-Senior Naval Architect | Ship Design | Structural Engineering | Shipbuilding Project Management
+Senior Naval Architect | Ship Design | Structural Analysis | Design Management
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-17%2B%20Years-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vessels-40%2B%20Delivered-28A745?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-International%20Opportunities-success?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Maxsurf-Expert-7B1FA2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AVEVA%20Marine-Expert-1976D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ANSYS-FEA-F57C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rhino3D-Expert-616161?style=for-the-badge" />
+<i>
+17+ years of delivering <strong>40+ naval, government, and commercial vessels</strong> from concept design to commissioning • Available for international relocation
+</i>
 </p>
 
 <p align="center">
 📧 <strong><a href="mailto:ariful.buet1985@gmail.com">ariful.buet1985@gmail.com</a></strong>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 📱 <strong><a href="tel:+8801624797833">+880 1624-797833</a></strong>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+📍 Khulna, Bangladesh
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://linkedin.com/in/islam-mdariful"><strong>LinkedIn</strong></a>
 </p>
 
-<p align="center">
+## About Me
 
-<a href="https://linkedin.com/in/islam-mdariful">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Senior Naval Architect with **17+ years of experience** delivering innovative ship design and engineering solutions for naval, coast guard, government, and commercial vessels. Proven track record of successfully delivering **40+ newbuilding projects** from concept design through production, construction support, sea trials, and commissioning.
 
-<a href="https://github.com/arifulislamnaval">
-<img src="https://img.shields.io/badge/GitHub-Engineering%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Specialized in **ship design, structural analysis, stability, production engineering, and design management**, with extensive experience ensuring compliance with **IMO regulations** and **classification society requirements**. Proficient in industry-standard engineering software, including **Maxsurf, AVEVA Marine, Rhino3D, AutoCAD, and ANSYS**, to develop safe, efficient, and buildable vessel designs.
 
-<a href="https://wa.me/8801624797833">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
+Experienced in leading multidisciplinary teams and resolving complex technical challenges across the design-to-construction lifecycle, with a focus on delivering high-quality, cost-effective solutions that enhance vessel performance, safety, and construction efficiency. Currently open to international opportunities in ship design, structural engineering, offshore structures, project engineering, and marine consulting.
 
 ---
+## Key Highlights
 
-<p align="center">
-<strong>Delivering Innovative, Safe, Efficient, and Class-Compliant Marine Engineering Solutions Worldwide.</strong>
-</p>
+- Progressed from Assistant Engineer to Chief of Design Section through consistent engineering leadership
+- Led Structural Design for Patrol Craft, ASD Tugboats, LCTs, Hydrographic & Diving Vessels
+- Directed Multidisciplinary Engineering Teams Across Design, Production & Planning
+- Ensured Full Compliance with IMO Regulations & Classification Society Rules
+- Performed Advanced Structural Analysis (FEA) and Hull Optimization for Cost-Effective Designs
+- Served as Technical Liaison with Clients & Classification Societies from Plan Approval to Commissioning
 
----
+## Core Expertise
 
-## 👋 About Me
-
-Senior Naval Architect and Marine Engineer with **17 years of experience** delivering **40+ naval, government, and commercial vessels** from concept design to commissioning.
-
-Specialized in **ship design, hydrostatics, stability, FEA, production engineering, and construction support** using **Maxsurf, AVEVA Marine, Rhino3D, ANSYS, and AutoCAD**.
-
-I am passionate about developing safe, efficient, and class-compliant vessels and am open to international opportunities with shipyards, ship design consultancies, classification societies, and marine engineering companies.
-
----
-## ⭐ Key Highlights
-
-✔ 17 Years in Ship Design & Shipbuilding
-
-✔ 40+ Naval, Government & Commercial Vessels Delivered
-
-✔ Design Lead for Bangladesh Navy, Coast Guard and Government Projects
-
-✔ Project Coordinator for Navy, Coast guard, government projects
-
-✔ Chief Naval Architect, Design Department
-
-✔ Expertise in Maxsurf, AVEVA Marine, Rhino3D & ANSYS
-
-## 🚢 Core Expertise
-
-* Ship Design & Naval Architecture
-* Shipbuilding Project Management
-* Hydrostatics & Stability Analysis
-* Hull Form Optimization
-* Structural Analysis (FEA/FEM)
-* Basic & Production Design
-* Construction Supervision
-* Sea Trials & Commissioning
-* Classification Society Liaison
-* Quality Assurance & Inspection
-* Technical Documentation
-* Procurement & Vendor Management
+- Ship Design & Naval Architecture
+- Structural Design & Finite Element Analysis (FEA)
+- Hydrostatics, Stability & Hydrodynamics
+- Hull Form & Structural Optimization
+- Concept, Basic & Production Design
+- CAD Modeling & Production Documentation
+- Design Management & Engineering Coordination
+- Classification Society & IMO Standards
 
 ---
 
 
-## 🚢 Selected Projects
+## Selected Projects
 
-| Project                            | Client                               | Role                |
-| ---------------------------------- | ------------------------------------ | ------------------- |
-| 1 × Self-Propelled Floating Crane  | Bangladesh Coast Guard               | Project Coordinator |
-| 2 × 70T ASD Tug Boats              | Payra Port Authority                 | Project Coordinator |
-| 3 × Landing Craft Tanks (LCTs)     | Bangladesh Navy                      | Design Lead         |
-| 10 × Patrol Craft                  | Bangladesh Navy                      | Design Engineer     |
-| 2 × Hydrographic Survey Vessels    | Bangladesh Navy                      | Design Engineer     |
-| 6 × High-Speed Boats               | Bangladesh Coast Guard               | Design Lead         |
-| 2 × 60T ASD Tug Boats              | Bangladesh Coast Guard               | Design Engineer     |
-| 2 × Diving Boats & 2 × Ferry Boats | Bangladesh Coast Guard               | Lead Design         |
-| 1 × Survey Boat & 1 × Pilot Boat   | Payra Port Authority                 | Lead Design         |
-| 4 × 24" Cutter Suction Dredgers    | Bangladesh Water Transport Authority | Lead Design         |
-| 4 × 12m Crane Boats                | Bangladesh Water Transport Authority | Lead Design         |
-| 1 x Fisheries Research Vessel      | Bangladesh Fisheries Research Institute | Lead Design         |
-
-
----
-## 📂 Over View of Projects
-
-* 🚢 [1 x Self-Propelled Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG)
-* 🚢 2 x 70 Ton Bollard Pull ASD Tug Boat
-* 🚢 3 x Landing Craft Tanks (LCTs) 
-* 🚢 10 x Patrol Craft
-* 🚢 2 × Hydrographic Survey Vessels
-* 🚢 6 × High-Speed Boats
-* 🚢 2 × 60T ASD Tug Boats
-* 🚢 2 × Diving Boats & 2 × Ferry Boats
-* 🚢 1 × Survey Boat & 1 × Pilot Boat
-* 🚢 4 × 24" Cutter Suction Dredgers
-* 🚢 4 × 12m Crane Boats   
-* 🚢 [1 x Fisheries Research Vessel](https://github.com/arifulislamnaval/mdarifulislam)
+| Project | Client | Status | Primary Responsibility |
+|---------|--------|:------:|------------------------|
+| [5 × Patrol Craft](https://github.com/arifulislamnaval/patrolcraft) & [2 × Large Patrol Craft](https://github.com/arifulislamnaval/largepc) | Bangladesh Navy | ✅ Delivered | Design Review & Rule Compliance |
+| [2 × 60T BP ASD Tug Boats](https://github.com/arifulislamnaval/submarinetug) | Bangladesh Navy | ✅ Delivered | Design Review & Rule Compliance |
+| [2 × Hydrographic](https://github.com/arifulislamnaval/hydrosurvey) & [3 × Diving Vessels](https://github.com/arifulislamnaval/divingboatbn) | Bangladesh Navy | ✅ Delivered | Structural Detailed Design |
+| [3 × Landing Craft Tanks (LCTs)](https://github.com/arifulislamnaval/lctbn) | Bangladesh Navy | 🚧 Ongoing | Structural Detailed Design |
+| [6 × High-Speed Boats](https://github.com/arifulislamnaval/hsbbcg) | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis |
+| [1 × Floating Crane](https://github.com/arifulislamnaval/self-propelled-floating-crane-for-BCG) & [3 × Patrol Vessels](https://github.com/arifulislamnaval/ipvbcg) | Bangladesh Coast Guard | ✅ Delivered | Stability Analysis & Structural Detailed Design |
+| [2 × 60T BP ASD Tug Boats](https://github.com/arifulislamnaval/bcgtug) | Bangladesh Coast Guard | ✅ Delivered | Structural Detailed Design |
+| [2 × Diving Boats](https://github.com/arifulislamnaval/bcgdivingboat) & 2 × [Ferry Boats](https://github.com/arifulislamnaval/ferrybcg) | Bangladesh Coast Guard | ✅ Delivered | Structural Review & Class Compliance |
+| 2 × 70T BP ASD Tug Boats | Payra Port Authority | 🚧 Ongoing | Structural Detailed Design |
+| [2 × Heavy Duty Boats](https://github.com/arifulislamnaval/ppahdsb) & [2 × Pilot Boats](https://github.com/arifulislamnaval/ppapilot) | Payra Port Authority | ✅ Delivered | Structural Review & Class Compliance |
+| [1 × Fisheries Research Vessel](https://github.com/arifulislamnaval/fishresearchproj) | Bangladesh Fisheries Research Institute | ✅ Delivered | Design Review & Rule Compliance |
+| 2 × Fire Floats | Fire Service & Civil Defence | ✅ Delivered | Design Review & Rule Compliance |
 
 ---
-## 🛠 Technical Skills
+## Technical Skills
 
-| Category            | Skills                                                                                                     |
-| ------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Design Software** | Maxsurf, AVEVA Marine, Rhino3D, AutoCAD, ANSYS                                                             |
-| **Engineering**     | Ship Design, Hydrostatics, Stability, Longitudinal Strength, FEA/FEM, Hull Optimization, Production Design |
-| **Regulations**     | IMO (SOLAS, MARPOL, Load Line, COLREG), Classification Society Rules (BV, LR, CCS)                         |
-| **Programming**     | Python, LaTeX, Microsoft Office                                                                            |
+| Category | Skills |
+|----------|--------|
+| **Engineering Software** | AVEVA Marine, Maxsurf, ANSYS, Rhino3D, AutoCAD 2D/3D |
+| **Engineering Capabilities** | Ship Design, Structural Design, Hydrostatics & Stability, Finite Element Analysis (FEA), Hull Form Optimization, Production Design |
+| **Standards & Compliance** | IMO Regulations, Classification Society Rules, Design Review & Technical Documentation |
+| **Programming & Engineering Tools** | Python, LaTeX, Microsoft Project, Microsoft Office (Excel, Word, PowerPoint) |
 
 ---
-## 💼 Professional Experience
+## Professional Experience
 
-### **Executive Engineer (Naval Architect)** | Khulna Shipyard Ltd., Bangladesh  
-**Apr 2016 – Present**
+### **Executive Engineer (Chief of Design Section)** | Khulna Shipyard Ltd., Bangladesh  
+**Apr 2015 – Present**
 
 - Lead the design and delivery of **naval, government, and commercial vessels** from concept design through construction, sea trials, and commissioning.
 - Perform ship design, hydrostatics, stability analysis, FEA, production engineering, and coordinate with classification societies, clients, and multidisciplinary teams to deliver class-compliant projects.
