@@ -71,7 +71,7 @@ My expertise covers **ship design, structural engineering, hydrostatics, stabili
 
 | Position | Organization | Period |
 |----------|--------------|--------|
-| **Executive Engineer (Chief of Design Section)** | Khulna Shipyard Ltd., Bangladesh | Apr 2015 – Present |
+| **Executive Engineer (Officer in Charge of Design Section)** | Khulna Shipyard Ltd., Bangladesh | Apr 2015 – Present |
 | **Deputy Manager** | Western Marine Shipyard Ltd., Bangladesh | Jan 2014 – Jan 2015 |
 | **Assistant Manager** | FMC Dockyard Ltd., Bangladesh | Apr 2012 – May 2013 |
 | **Assistant Engineer** | Ananda Shipyard Ltd., Bangladesh | Jul 2010 – Mar 2012 |
