@@ -91,7 +91,7 @@ Bangladesh University of Engineering & Technology (BUET)
 
 - 🇧🇩 Bengali — Native
 - 🇬🇧 English — Professional
-- 🇸🇦 Arabic — Conversational
+- 🇸🇦 Arabic — Reading only
 - 🇮🇳 Hindi — Conversational
 
 ---
